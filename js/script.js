@@ -1,8 +1,8 @@
  
 /**
  * Funzione per verificare se una parola è palindroma
- * @param {any} word
- * @returns {any}
+ * @param {string} word
+ * @returns {boolean}
  */
 function isPalindrome(word) {
     // Inverte la parola e confronta con l'originale
